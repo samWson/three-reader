@@ -1,0 +1,8 @@
+= ThreeReader
+
+A command line RSS reader.
+
+== This Repoisitory is in the Public Domain
+
+The contents of this repository are in the Public Domain. Read the UNLICENSE file for details.
+
