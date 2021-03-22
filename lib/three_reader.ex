@@ -13,6 +13,11 @@ defmodule ThreeReader do
 
   """
   def hello do
+    IO.puts("Hello world!")
     :world
+  end
+
+  def main(args) do
+    hello()
   end
 end

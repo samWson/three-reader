@@ -9,7 +9,8 @@ defmodule ThreeReader.MixProject do
       license: "The Unlicense",
       elixir: "~> 1.11",
       start_permanent: Mix.env() == :prod,
-      deps: deps()
+      deps: deps(),
+      escript: [main_module: ThreeReader]
     ]
   end
 
