@@ -6,3 +6,7 @@ A command line RSS reader.
 
 The contents of this repository are in the Public Domain. Read the UNLICENSE file for details.
 
+[bibliography]
+== Resources
+
+* [[[rs]]] https://www.rssboard.org/rss-specification[RSS Specification]
