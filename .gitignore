@@ -25,3 +25,6 @@ three_reader-*.tar
 
 # Temporary files for e.g. tests
 /tmp
+
+# Escript executable
+three_reader
